@@ -24,6 +24,7 @@ public class CollisionHandler : MonoBehaviour
         DebugMode();
     }
     
+    //This is a collision handler 
     void OnCollisionEnter(Collision other) {
 
         if (isTransitioning || collisionDisabled) { return; }
