@@ -7,11 +7,17 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/Scenes/Over.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    guid: 858dcd64c2dfdb04787da36c484fce14
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/Template.unity
+    path: Assets/Scenes/Hill.unity
     guid: a168f347a71fded41a9f7e09fdaf7ba1
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/Under.unity
-    guid: 22fda030e5e2e69409d0c720722b0f13
+    path: Assets/Scenes/Maze.unity
+    guid: 85468bd2e18125249a451930a439c2b6
   m_configObjects: {}
