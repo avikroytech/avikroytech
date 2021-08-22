@@ -11,7 +11,7 @@ public class CollisionHandler : MonoBehaviour
 
     AudioSource audioSource;
     BoxCollider bCollider;
-
+    // These are my flags
     bool isTransitioning = false;
     bool collisionDisabled = false;
 
